@@ -1,3 +1,6 @@
+import numpy as np
+from math import ceil
+
 def week_of_month(dt):
     """ Returns the week of the month for the specified date.
     """
